@@ -1,1 +1,1 @@
-# SiMantiK
+# SeMantiK
